@@ -7,7 +7,7 @@ const translations = {
     title: "Hello and welcome to the site.",
     txt: "Discover our features and services!",
   },
-  ES: {
+  SP: {
     title: "Hola y bienvenido al sitio.",
     txt: "¡Descubra nuestras características y servicios!",
   },

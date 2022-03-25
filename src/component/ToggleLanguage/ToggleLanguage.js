@@ -12,17 +12,17 @@ function ToggleLanguage() {
     <div className={styles.container}>
       <img
         src={frenchFlag}
-        onClick={() => handleLanguage("FR")}
+        onClick={() => handleLanguage("fr")}
         alt="French Flag"
       />
       <img
         src={spanishFlag}
-        onClick={() => handleLanguage("SP")}
+        onClick={() => handleLanguage("es")}
         alt="Spanish Flag"
       />
       <img
         src={englishFlag}
-        onClick={() => handleLanguage("EN")}
+        onClick={() => handleLanguage("en")}
         alt="English Flag"
       />
     </div>
